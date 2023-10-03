@@ -44,7 +44,7 @@ const Navbar = () => {
                       <li className='text-xl py-4 flex'><MdFavorite className='mr-2'size={25} />Favorites</li>
                       <li className='text-xl py-4 flex'><FaWallet className='mr-2'size={25} />Wallet</li>
                       <li className='text-xl py-4 flex'><MdHelp className='mr-2'size={25} />Help</li>
-                      <li className='text-xl py-4 flex'><AiFillTag className='mr-2'size={25} />Promotions</li>
+                      <li className='text-xl py-4 flex'><AiFillTag className='mr-2'size={25} />Promos</li>
                       <li className='text-xl py-4 flex'><BsFillSaveFill className='mr-2'size={25} />Best ones</li>
                       <li className='text-xl py-4 flex'><FaUserFriends className='mr-2'size={25} />Invite friends</li>
 
